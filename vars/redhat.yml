@@ -17,3 +17,7 @@ python_pip_package: python-pip
 python_packages:
   - libffi-devel
   - openssl-devel
+  - python-requests
+  - python-pyasn1
+  - pyOpenSSL
+  - python-ndg_httpsclient

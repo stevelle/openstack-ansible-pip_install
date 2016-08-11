@@ -15,5 +15,10 @@
 
 python_pip_package: python-pip
 python_packages:
+  - build-essential
+  - python-setuptools
   - libffi-dev
   - libssl-dev
+  - python-requests
+  - python-openssl
+  - python-pyasn1
